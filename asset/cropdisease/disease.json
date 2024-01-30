@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "Disease_Name": "Tomato Mosaic Virus",
+        "Description": "Tomato mosaic virus is a plant disease that affects tomatoes, causing mosaic-like patterns on the leaves.",
+        "Causes": "Caused by the Tomato mosaic virus (ToMV) or Tobacco mosaic virus (TMV).",
+        "Symptoms": "1. Mosaic patterns on leaves\n2. Yellowing of leaves\n3. Stunted growth\n4. Reduced fruit yield",
+        "Treatment": "No specific cure, remove infected plants to prevent spread.",
+        "MANAGEMENT_TIPS": "1. Use virus-resistant tomato varieties\n2. Control aphids and other vectors\n3. Sanitize tools and equipment",
+        "Prevention": "Plant disease-resistant varieties, practice crop rotation, and maintain good hygiene.",
+        "Affected_Plant_Parts": "Leaves, stems, and fruits",
+        "Spread_and_Impact": "Spread through contaminated seeds, soil, and tools. Can lead to significant yield losses.",
+        "Images": [
+            "image1.jpg",
+            "image2.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "RELATEDOTHERDIEASE": "Tomato_Yellow_Leaf_Curl_Virus"
+    },
+    {
+        "id": 1,
+        "Disease_Name": "Target Spot",
+        "Description": "Target spot is a fungal disease affecting tomatoes, characterized by circular lesions on leaves.",
+        "Causes": "Caused by the fungus Corynespora cassiicola.",
+        "Symptoms": "1. Circular lesions with concentric rings\n2. Dark, necrotic spots on leaves\n3. Premature defoliation",
+        "Treatment": "Fungicides containing chlorothalonil can be used for control.",
+        "MANAGEMENT_TIPS": "1. Provide adequate spacing between plants\n2. Avoid overhead irrigation\n3. Remove and destroy infected leaves",
+        "Prevention": "Apply fungicides preventatively, practice crop rotation, and maintain proper plant spacing.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through splashing water and can lead to reduced yield and fruit quality.",
+        "Images": [
+            "image3.jpg",
+            "image4.jpg"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "RELATEDOTHERDIEASE": "Early_blight"
+    },
+    {
+        "id": 2,
+        "Disease_Name": "Bacterial Spot",
+        "Description": "Bacterial spot is a bacterial disease affecting tomatoes, causing dark, necrotic spots on leaves and fruits.",
+        "Causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria.",
+        "Symptoms": "1. Dark, water-soaked lesions on leaves and fruits\n2. Lesions with a halo-like appearance\n3. Leaf and fruit drop",
+        "Treatment": "Copper-based bactericides can help control bacterial spot.",
+        "MANAGEMENT_TIPS": "1. Rotate crops to reduce pathogen buildup\n2. Use disease-free seeds and transplants\n3. Apply copper sprays preventatively",
+        "Prevention": "Practice crop rotation, use disease-free seeds, and maintain good garden hygiene.",
+        "Affected_Plant_Parts": "Leaves, fruits",
+        "Spread_and_Impact": "Spread through rain splashes and can lead to significant yield losses.",
+        "Images": [
+            "image5.jpg",
+            "image6.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "RELATEDOTHERDIEASE": "Late_blight"
+    },
+    {
+        "id": 3,
+        "Disease_Name": "Tomato Yellow Leaf Curl Virus",
+        "Description": "Tomato yellow leaf curl virus is a viral disease affecting tomatoes, causing yellowing and curling of leaves.",
+        "Causes": "Caused by Tomato yellow leaf curl virus (TYLCV) and transmitted by whiteflies.",
+        "Symptoms": "1. Yellowing and curling of leaves\n2. Leaf narrowing\n3. Reduced fruit size and yield",
+        "Treatment": "No cure, control whiteflies using insecticides.",
+        "MANAGEMENT_TIPS": "1. Use insecticides to control whiteflies\n2. Plant virus-resistant tomato varieties\n3. Remove infected plants",
+        "Prevention": "Control whitefly populations, plant resistant varieties, and maintain good garden hygiene.",
+        "Affected_Plant_Parts": "Leaves, stems, and fruits",
+        "Spread_and_Impact": "Spread by whiteflies and can cause severe yield losses.",
+        "Images": [
+            "image7.jpg",
+            "image8.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "RELATEDOTHERDIEASE": "Spider_mites Two-spotted_spider_mite"
+    },
+    {
+        "id": 4,
+        "Disease_Name": "Late Blight",
+        "Description": "Late blight is a fungal disease affecting tomatoes, causing dark lesions on leaves and fruits.",
+        "Causes": "Caused by the oomycete Phytophthora infestans.",
+        "Symptoms": "1. Dark lesions on leaves and fruits\n2. White fungal growth under humid conditions\n3. Rapid plant defoliation",
+        "Treatment": "Fungicides containing metalaxyl can help control late blight.",
+        "MANAGEMENT_TIPS": "1. Provide good air circulation\n2. Avoid overhead irrigation\n3. Apply fungicides preventatively",
+        "Prevention": "Apply fungicides preventatively, practice crop rotation, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves, fruits",
+        "Spread_and_Impact": "Spread through spores and can cause rapid and severe damage to plants.",
+        "Images": [
+            "image9.jpg",
+            "image10.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "RELATEDOTHERDIEASE": "Leaf_Mold"
+    },
+    {
+        "id": 5,
+        "Disease_Name": "Leaf Mold",
+        "Description": "Leaf mold is a fungal disease affecting tomatoes, characterized by yellowing and mold growth on leaves.",
+        "Causes": "Caused by the fungus Fulvia fulva.",
+        "Symptoms": "1. Yellowing of leaves\n2. Velvety, greenish-black mold growth on the undersides of leaves",
+        "Treatment": "Fungicides containing chlorothalonil can help control leaf mold.",
+        "MANAGEMENT_TIPS": "1. Provide good air circulation\n2. Avoid overhead irrigation\n3. Apply fungicides preventatively",
+        "Prevention": "Apply fungicides preventatively, maintain proper spacing, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to reduced fruit quality.",
+        "Images": [
+            "image11.jpg",
+            "image12.jpg"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "RELATEDOTHERDIEASE": "Early_blight"
+    },
+    {
+        "id": 6,
+        "Disease_Name": "Early Blight",
+        "Description": "Early blight is a fungal disease affecting tomatoes, causing concentric rings of dark lesions on leaves.",
+        "Causes": "Caused by the fungus Alternaria solani.",
+        "Symptoms": "1. Dark lesions with concentric rings on leaves\n2. Lower leaf yellowing and defoliation\n3. Reduced fruit yield",
+        "Treatment": "Fungicides containing chlorothalonil can help control early blight.",
+        "MANAGEMENT_TIPS": "1. Remove infected plant debris\n2. Apply fungicides preventatively\n3. Provide proper plant spacing",
+        "Prevention": "Practice crop rotation, use disease-resistant varieties, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to significant yield losses.",
+        "Images": [
+            "image13.jpg",
+            "image14.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "RELATEDOTHERDIEASE": "Spider_mites Two-spotted_spider_mite"
+    },
+    {
+        "id": 7,
+        "Disease_Name": "Two-spotted Spider Mite",
+        "Description": "Two-spotted spider mites are arachnids that feed on tomato plants, causing stippling and discoloration of leaves.",
+        "Causes": "Caused by the spider mite Tetranychus urticae.",
+        "Symptoms": "1. Stippling on leaves\n2. Webbing on the undersides of leaves\n3. Yellowing and discoloration",
+        "Treatment": "Miticides can help control spider mite infestations.",
+        "MANAGEMENT_TIPS": "1. Introduce predatory mites\n2. Use insecticidal soaps\n3. Maintain proper humidity levels",
+        "Prevention": "Regularly inspect plants for mites, provide adequate humidity, and avoid over-fertilization.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through wind and can lead to reduced plant vigor.",
+        "Images": [
+            "image15.jpg",
+            "image16.jpg"
+        ],
+        "DISEASE_Severity_Level": "Low",
+        "RELATEDOTHERDIEASE": "Tomato___healthy"
+    },
+    {
+        "id": 8,
+        "Disease_Name": "Healthy Tomato",
+        "Description": "A healthy tomato plant with no signs of diseases.",
+        "Causes": "No pathogens present.",
+        "Symptoms": "No symptoms of diseases.",
+        "Treatment": "No treatment required.",
+        "MANAGEMENT_TIPS": "Maintain good plant care practices.",
+        "Prevention": "Practice proper plant hygiene and provide optimal growing conditions.",
+        "Affected_Plant_Parts": "Healthy plant",
+        "Spread_and_Impact": "No impact, represents a disease-free state.",
+        "Images": [
+            "image17.jpg",
+            "image18.jpg"
+        ],
+        "DISEASE_Severity_Level": "N/A",
+        "RELATEDOTHERDIEASE": ""
+    },
+    {
+        "id": 9,
+        "Disease_Name": "Septoria Leaf Spot",
+        "Description": "Septoria leaf spot is a fungal disease affecting tomatoes, causing small, dark spots on leaves.",
+        "Causes": "Caused by the fungus Septoria lycopersici.",
+        "Symptoms": "1. Small, dark spots with white centers on leaves\n2. Premature defoliation",
+        "Treatment": "Fungicides containing chlorothalonil can help control septoria leaf spot.",
+        "MANAGEMENT_TIPS": "1. Remove infected plant debris\n2. Apply fungicides preventatively\n3. Provide proper plant spacing",
+        "Prevention": "Practice crop rotation, use disease-resistant varieties, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to reduced fruit quality.",
+        "Images": [
+            "image19.jpg",
+            "image20.jpg"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "RELATEDOTHERDIEASE": "Late_blight"
+    }
+]
