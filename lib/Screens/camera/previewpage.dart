@@ -1,5 +1,6 @@
 import 'package:camera/camera.dart';
 import 'package:cropdisdetection/HomePage.dart';
+import 'package:cropdisdetection/Models/identifydisease.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 
@@ -34,8 +35,11 @@ class PreviewPage extends StatelessWidget {
               ),
               IconButton(
                 onPressed: () {
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => HomePage()));
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) =>
+                              IdentifyDisease(imageFile: File(picture.path))));
                 },
                 icon: const Icon(Icons.check, size: 30),
                 color: Colors.green,

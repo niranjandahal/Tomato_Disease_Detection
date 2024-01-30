@@ -40,6 +40,7 @@ dev_dependencies:
   flutter_native_splash: ^2.3.9
   flutter_test:
     sdk: flutter
+  gauge_indicator: ^0.4.3
   http: ^1.2.0
   image_picker: ^1.0.7
   permission_handler: ^11.2.0

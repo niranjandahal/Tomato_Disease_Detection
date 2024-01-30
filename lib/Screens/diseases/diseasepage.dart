@@ -16,18 +16,21 @@ class DiseasePage extends StatelessWidget {
           return ListView.builder(
             itemCount: provider.DiseaseDetails.length,
             itemBuilder: (context, index) {
-              return ListTile(
-                title: Text(provider.DiseaseDetails[index]['Disease_Name']),
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => DiseaseDetailsPage(
-                        disease: provider.DiseaseDetails[index],
+              // i want each one in the card with shadow and name of the disease
+              return Card(
+                child: ListTile(
+                  title: Text(provider.DiseaseDetails[index]['Disease_Name']),
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => DiseaseDetailsPage(
+                          disease: provider.DiseaseDetails[index],
+                        ),
                       ),
-                    ),
-                  );
-                },
+                    );
+                  },
+                ),
               );
             },
           );

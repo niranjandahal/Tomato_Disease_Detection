@@ -15,7 +15,9 @@
             "image2.jpg"
         ],
         "DISEASE_Severity_Level": "High",
-        "RELATEDOTHERDIEASE": "Tomato_Yellow_Leaf_Curl_Virus"
+        "DISEASE_Severity_Value": "80",
+        "RELATEDOTHERDISEASE": "Tomato_Yellow_Leaf_Curl_Virus",
+        "relateddiseaseimg": "imager0.jpg"
     },
     {
         "id": 1,
@@ -33,7 +35,9 @@
             "image4.jpg"
         ],
         "DISEASE_Severity_Level": "Moderate",
-        "RELATEDOTHERDIEASE": "Early_blight"
+        "DISEASE_Severity_Value": "55",
+        "RELATEDOTHERDISEASE": "Early_blight",
+        "relateddiseaseimg": "imager1.jpg"
     },
     {
         "id": 2,
@@ -51,7 +55,9 @@
             "image6.jpg"
         ],
         "DISEASE_Severity_Level": "High",
-        "RELATEDOTHERDIEASE": "Late_blight"
+        "DISEASE_Severity_Value": "95",
+        "RELATEDOTHERDISEASE": "Late_blight",
+        "relateddiseaseimg": "imager2.jpg"
     },
     {
         "id": 3,
@@ -69,7 +75,9 @@
             "image8.jpg"
         ],
         "DISEASE_Severity_Level": "High",
-        "RELATEDOTHERDIEASE": "Spider_mites Two-spotted_spider_mite"
+        "DISEASE_Severity_Value": "85",
+        "RELATEDOTHERDISEASE": "Spider_mites Two-spotted_spider_mite",
+        "relateddiseaseimg": "imager3.jpg"
     },
     {
         "id": 4,
@@ -87,7 +95,9 @@
             "image10.jpg"
         ],
         "DISEASE_Severity_Level": "High",
-        "RELATEDOTHERDIEASE": "Leaf_Mold"
+        "DISEASE_Severity_Value": "86",
+        "RELATEDOTHERDISEASE": "Leaf_Mold",
+        "relateddiseaseimg": "imager4.jpg"
     },
     {
         "id": 5,
@@ -105,7 +115,9 @@
             "image12.jpg"
         ],
         "DISEASE_Severity_Level": "Moderate",
-        "RELATEDOTHERDIEASE": "Early_blight"
+        "DISEASE_Severity_Value": "40",
+        "RELATEDOTHERDISEASE": "Early_blight",
+        "relateddiseaseimg": "imager5.jpg"
     },
     {
         "id": 6,
@@ -123,7 +135,9 @@
             "image14.jpg"
         ],
         "DISEASE_Severity_Level": "High",
-        "RELATEDOTHERDIEASE": "Spider_mites Two-spotted_spider_mite"
+        "DISEASE_Severity_Value": "93",
+        "RELATEDOTHERDISEASE": "Spider_mites Two-spotted_spider_mite",
+        "relateddiseaseimg": "imager6.jpg"
     },
     {
         "id": 7,
@@ -141,7 +155,9 @@
             "image16.jpg"
         ],
         "DISEASE_Severity_Level": "Low",
-        "RELATEDOTHERDIEASE": "Tomato___healthy"
+        "DISEASE_Severity_Value": "10",
+        "RELATEDOTHERDISEASE": "",
+        "relateddiseaseimg": ""
     },
     {
         "id": 8,
@@ -158,8 +174,10 @@
             "image17.jpg",
             "image18.jpg"
         ],
-        "DISEASE_Severity_Level": "N/A",
-        "RELATEDOTHERDIEASE": ""
+        "DISEASE_Severity_Value": "0",
+        "DISEASE_Severity_Level": "Healthy",
+        "RELATEDOTHERDISEASE": "",
+        "relateddiseaseimg": ""
     },
     {
         "id": 9,
@@ -177,6 +195,8 @@
             "image20.jpg"
         ],
         "DISEASE_Severity_Level": "Moderate",
-        "RELATEDOTHERDIEASE": "Late_blight"
+        "DISEASE_Severity_Value": "50",
+        "RELATEDOTHERDISEASE": "Late_blight",
+        "relateddiseaseimg": "imager9.jpg"
     }
 ]
