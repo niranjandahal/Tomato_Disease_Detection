@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859343783285",
+    "project_id": "cropdiseasedetection-6a7ee",
+    "storage_bucket": "cropdiseasedetection-6a7ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859343783285:android:a36fca595f03e6c107bf3c",
+        "android_client_info": {
+          "package_name": "com.example.cropdisdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RLZKVB6Qj4rxEAq6sPqK-AUdlT4myTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

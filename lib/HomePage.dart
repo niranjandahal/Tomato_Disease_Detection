@@ -91,10 +91,11 @@ class _HomePageState extends State<HomePage> {
                                                   0.4), // Adjust opacity as needed
                                               BlendMode.srcATop,
                                             ),
-                                            child: Image.network(
-                                              i['download_url'],
-                                              fit: BoxFit.cover,
-                                            ),
+                                            // child:
+                                            // Image.network(
+                                            //   i['download_url'],
+                                            //   fit: BoxFit.cover,
+                                            // ),
                                           ),
                                         ),
                                       ),

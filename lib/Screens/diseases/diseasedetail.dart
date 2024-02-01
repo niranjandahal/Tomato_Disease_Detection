@@ -42,7 +42,8 @@ class DiseaseDetailsPage extends StatelessWidget {
 
                       //gauge indicator on baiss of severity by gauge indicator packages
                       AnimatedRadialGauge(
-                        duration: const Duration(seconds: 3),
+                        duration: const Duration(
+                            seconds: 6), // Increase animation duration
                         curve: Curves.elasticOut,
                         radius: 120,
                         value: double.parse(disease['DISEASE_Severity_Value']),
@@ -56,7 +57,7 @@ class DiseaseDetailsPage extends StatelessWidget {
                             segmentSpacing: 4,
                           ),
                           progressBar: GaugeProgressBar.rounded(
-                            color: Color(0xFFB4C2F8),
+                            color: Color.fromARGB(69, 180, 194, 248),
                           ),
                           segments: [
                             GaugeSegment(
@@ -72,7 +73,8 @@ class DiseaseDetailsPage extends StatelessWidget {
                               cornerRadius: Radius.circular(8),
                             ),
                             GaugeSegment(
-                              from: 66.6,
+                              from: 66.6 +
+                                  0.01, // Add a small offset to avoid coverage
                               to: 100,
                               color: Colors.red, // High severity
                               cornerRadius: Radius.circular(8),
