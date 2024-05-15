@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Prediction</title>
+    <script>
+        async function predictImage() {
+            const formData = new FormData();
+            const fileField = document.querySelector('#file');
+            formData.append('file', fileField.files[0]);
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                });
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const prediction = await response.json();
+                document.getElementById('prediction').textContent = `Prediction: ${prediction.prediction}`;
+                document.getElementById('confidence').textContent = `Confidence: ${prediction.confidence}`;
+            } catch (error) {
+                console.error('There was a problem with your fetch operation:', error);
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Image Prediction</h1>
+    <input type="file" id="file" name="file">
+    <button onclick="predictImage()">Predict</button>
+    <p id="prediction"></p>
+    <p id="confidence"></p>
+</body>
+</html>
