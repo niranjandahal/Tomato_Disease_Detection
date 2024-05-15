@@ -1,0 +1,202 @@
+[
+    {
+        "id": 0,
+        "Disease_Name": "Bacterial Spot",
+        "Description": "Bacterial spot is a bacterial disease affecting tomatoes, causing dark, necrotic spots on leaves and fruits.",
+        "Causes": "Caused by the bacterium Xanthomonas campestris pv. vesicatoria.",
+        "Symptoms": "1. Dark, water-soaked lesions on leaves and fruits\n2. Lesions with a halo-like appearance\n3. Leaf and fruit drop",
+        "Treatment": "Copper-based bactericides can help control bacterial spot.",
+        "MANAGEMENT_TIPS": "1. Rotate crops to reduce pathogen buildup\n2. Use disease-free seeds and transplants\n3. Apply copper sprays preventatively",
+        "Prevention": "Practice crop rotation, use disease-free seeds, and maintain good garden hygiene.",
+        "Affected_Plant_Parts": "Leaves, fruits",
+        "Spread_and_Impact": "Spread through rain splashes and can lead to significant yield losses.",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm_moeFQPY5MyHKxW90bbdRu8NQXb0ltt4RVJkHgUUw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGZ8-_85kvzDim90Yx40SsKaLTxi9Vhsbig251UAMpWGJwR7J66vuSG51Krm__QhWlMQ&usqp=CAU"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "DISEASE_Severity_Value": "95",
+        "RELATEDOTHERDISEASE": "Late_blight",
+        "relateddiseaseimg": "https://www.gardeners.com/globalassets/articles/gardening/hero_thumbnail/7262-late-blight-tomato.jpg.jpg?$staticlink$"
+    },
+    {
+        "id": 1,
+        "Disease_Name": "Early Blight",
+        "Description": "Early blight is a fungal disease affecting tomatoes, causing concentric rings of dark lesions on leaves.",
+        "Causes": "Caused by the fungus Alternaria solani.",
+        "Symptoms": "1. Dark lesions with concentric rings on leaves\n2. Lower leaf yellowing and defoliation\n3. Reduced fruit yield",
+        "Treatment": "Fungicides containing chlorothalonil can help control early blight.",
+        "MANAGEMENT_TIPS": "1. Remove infected plant debris\n2. Apply fungicides preventatively\n3. Provide proper plant spacing",
+        "Prevention": "Practice crop rotation, use disease-resistant varieties, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to significant yield losses.",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbZBIroXsI7N5s8ZkZgTSZFzVRvSrgpPKDjcyq7_rk1lWSaaF4B6UtP5zRkwa_uwGAGU&usqp=CAU",
+            "https://gardenerspath.com/wp-content/uploads/2020/05/Tomato-with-Early-Blight.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "DISEASE_Severity_Value": "93",
+        "RELATEDOTHERDISEASE": "Spider_mites Two-spotted_spider_mite",
+        "relateddiseaseimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLz1eBfrWW9VpUAcSEt_zhCkVHinPoZG7DXJszB3o0A&s"
+    },
+    {
+        "id": 2,
+        "Disease_Name": "Healthy Tomato",
+        "Description": "A healthy tomato plant with no signs of diseases.",
+        "Causes": "No pathogens present.",
+        "Symptoms": "No symptoms of diseases.",
+        "Treatment": "No treatment required.",
+        "MANAGEMENT_TIPS": "Maintain good plant care practices.",
+        "Prevention": "Practice proper plant hygiene and provide optimal growing conditions.",
+        "Affected_Plant_Parts": "Healthy plant",
+        "Spread_and_Impact": "No impact, represents a disease-free state.",
+        "Images": [
+            "https://plantperfect.com/wp-content/uploads/2022/07/Plant-Perfect-Garden-Center-How-to-Care-for-Your-Tomatoes-in-Bismarck-healthy-tomatoes-on-vine.jpg",
+            "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/6/56316/files/2019/06/wet-tomato-5.jpg"
+        ],
+        "DISEASE_Severity_Value": "0",
+        "DISEASE_Severity_Level": "Healthy",
+        "RELATEDOTHERDISEASE": "",
+        "relateddiseaseimg": ""
+    },
+    {
+        "id": 3,
+        "Disease_Name": "Late Blight",
+        "Description": "Late blight is a fungal disease affecting tomatoes, causing dark lesions on leaves and fruits.",
+        "Causes": "Caused by the oomycete Phytophthora infestans.",
+        "Symptoms": "1. Dark lesions on leaves and fruits\n2. White fungal growth under humid conditions\n3. Rapid plant defoliation",
+        "Treatment": "Fungicides containing metalaxyl can help control late blight.",
+        "MANAGEMENT_TIPS": "1. Provide good air circulation\n2. Avoid overhead irrigation\n3. Apply fungicides preventatively",
+        "Prevention": "Apply fungicides preventatively, practice crop rotation, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves, fruits",
+        "Spread_and_Impact": "Spread through spores and can cause rapid and severe damage to plants.",
+        "Images": [
+            "https://www.gardeners.com/globalassets/articles/gardening/hero_thumbnail/7262-late-blight-tomato.jpg.jpg?$staticlink$",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeRMSWUL5t0DgnxxPyqnksIa0POX663BaiM9e7-Ol_VA&s"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "DISEASE_Severity_Value": "86",
+        "RELATEDOTHERDISEASE": "Leaf_Mold",
+        "relateddiseaseimg": "https://vegcropshotline.org/wp-content/uploads/2016/02/607-155-0.jpg"
+    },
+    {
+        "id": 4,
+        "Disease_Name": "Leaf Mold",
+        "Description": "Leaf mold is a fungal disease affecting tomatoes, characterized by yellowing and mold growth on leaves.",
+        "Causes": "Caused by the fungus Fulvia fulva.",
+        "Symptoms": "1. Yellowing of leaves\n2. Velvety, greenish-black mold growth on the undersides of leaves",
+        "Treatment": "Fungicides containing chlorothalonil can help control leaf mold.",
+        "MANAGEMENT_TIPS": "1. Provide good air circulation\n2. Avoid overhead irrigation\n3. Apply fungicides preventatively",
+        "Prevention": "Apply fungicides preventatively, maintain proper spacing, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to reduced fruit quality.",
+        "Images": [
+            "https://vegcropshotline.org/wp-content/uploads/2016/06/IMG_1261.jpg",
+            "https://vegcropshotline.org/wp-content/uploads/2016/02/607-155-0.jpg"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "DISEASE_Severity_Value": "40",
+        "RELATEDOTHERDISEASE": "Early_blight",
+        "relateddiseaseimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbZBIroXsI7N5s8ZkZgTSZFzVRvSrgpPKDjcyq7_rk1lWSaaF4B6UtP5zRkwa_uwGAGU&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "Disease_Name": "Septoria Leaf Spot",
+        "Description": "Septoria leaf spot is a fungal disease affecting tomatoes, causing small, dark spots on leaves.",
+        "Causes": "Caused by the fungus Septoria lycopersici.",
+        "Symptoms": "1. Small, dark spots with white centers on leaves\n2. Premature defoliation",
+        "Treatment": "Fungicides containing chlorothalonil can help control septoria leaf spot.",
+        "MANAGEMENT_TIPS": "1. Remove infected plant debris\n2. Apply fungicides preventatively\n3. Provide proper plant spacing",
+        "Prevention": "Practice crop rotation, use disease-resistant varieties, and monitor for early symptoms.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through spores and can lead to reduced fruit quality.",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-a6Xuif6cfHrs-rrngOGungH1ZgcwW83WB0VmE1mUA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqpDFvH5Y-BtB103i0YbjDWz9x8KXKj6fGwPjBfBO8g&s"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "DISEASE_Severity_Value": "50",
+        "RELATEDOTHERDISEASE": "Late_blight",
+        "relateddiseaseimg": "https://www.gardeners.com/globalassets/articles/gardening/hero_thumbnail/7262-late-blight-tomato.jpg.jpg?$staticlink$"
+    },
+    {
+        "id": 6,
+        "Disease_Name": "Two-spotted Spider Mite",
+        "Description": "Two-spotted spider mites are arachnids that feed on tomato plants, causing stippling and discoloration of leaves.",
+        "Causes": "Caused by the spider mite Tetranychus urticae.",
+        "Symptoms": "1. Stippling on leaves\n2. Webbing on the undersides of leaves\n3. Yellowing and discoloration",
+        "Treatment": "Miticides can help control spider mite infestations.",
+        "MANAGEMENT_TIPS": "1. Introduce predatory mites\n2. Use insecticidal soaps\n3. Maintain proper humidity levels",
+        "Prevention": "Regularly inspect plants for mites, provide adequate humidity, and avoid over-fertilization.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through wind and can lead to reduced plant vigor.",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZJeRiwTtMCJ3rtudLlcsH4aEZKcXpuELV2jXRSerhg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLz1eBfrWW9VpUAcSEt_zhCkVHinPoZG7DXJszB3o0A&s"
+        ],
+        "DISEASE_Severity_Level": "Low",
+        "DISEASE_Severity_Value": "10",
+        "RELATEDOTHERDISEASE": "",
+        "relateddiseaseimg": ""
+    },
+    {
+        "id": 7,
+        "Disease_Name": "Target Spot",
+        "Description": "Target spot is a fungal disease affecting tomatoes, characterized by circular lesions on leaves.",
+        "Causes": "Caused by the fungus Corynespora cassiicola.",
+        "Symptoms": "1. Circular lesions with concentric rings\n2. Dark, necrotic spots on leaves\n3. Premature defoliation",
+        "Treatment": "Fungicides containing chlorothalonil can be used for control.",
+        "MANAGEMENT_TIPS": "1. Provide adequate spacing between plants\n2. Avoid overhead irrigation\n3. Remove and destroy infected leaves",
+        "Prevention": "Apply fungicides preventatively, practice crop rotation, and maintain proper plant spacing.",
+        "Affected_Plant_Parts": "Leaves",
+        "Spread_and_Impact": "Spread through splashing water and can lead to reduced yield and fruit quality.",
+        "Images": [
+            "https://barmac.com.au/wp-content/uploads/sites/3/2016/01/Target-Spot-Tomato1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQl6zhZriAsDUaWfOQ9pe6Po7FGWrbGNWL816wRjWXeA&s"
+        ],
+        "DISEASE_Severity_Level": "Moderate",
+        "DISEASE_Severity_Value": "55",
+        "RELATEDOTHERDISEASE": "Early_blight",
+        "relateddiseaseimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbZBIroXsI7N5s8ZkZgTSZFzVRvSrgpPKDjcyq7_rk1lWSaaF4B6UtP5zRkwa_uwGAGU&usqp=CAU"
+    },
+    {
+        "id": 8,
+        "Disease_Name": "Tomato Mosaic Virus",
+        "Description": "Tomato mosaic virus is a plant disease that affects tomatoes, causing mosaic-like patterns on the leaves.",
+        "Causes": "Caused by the Tomato mosaic virus (ToMV) or Tobacco mosaic virus (TMV).",
+        "Symptoms": "1. Mosaic patterns on leaves\n2. Yellowing of leaves\n3. Stunted growth\n4. Reduced fruit yield",
+        "Treatment": "No specific cure, remove infected plants to prevent spread.",
+        "MANAGEMENT_TIPS": "1. Use virus-resistant tomato varieties\n2. Control aphids and other vectors\n3. Sanitize tools and equipment",
+        "Prevention": "Plant disease-resistant varieties, practice crop rotation, and maintain good hygiene.",
+        "Affected_Plant_Parts": "Leaves, stems, and fruits",
+        "Spread_and_Impact": "Spread through contaminated seeds, soil, and tools. Can lead to significant yield losses.",
+        "Images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVUPJtPp6g5EHBoFTLRD8dPiK4Uht8vInrZSIWL04IKW58yKctgINxUCK5B60KWy9raA&usqp=CAU",
+            "https://www.creative-diagnostics.com/blog/wp-content/uploads/2017/01/tobacco-mosaic-virus.jpg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "DISEASE_Severity_Value": "80",
+        "RELATEDOTHERDISEASE": "Tomato_Yellow_Leaf_Curl_Virus",
+        "relateddiseaseimg": "https://www.greenlife.co.ke/wp-content/uploads/2022/04/Tomato-Leaf-Curl.jpg"
+    },
+    {
+        "id": 9,
+        "Disease_Name": "Tomato Yellow Leaf Curl Virus",
+        "Description": "Tomato yellow leaf curl virus is a viral disease affecting tomatoes, causing yellowing and curling of leaves.",
+        "Causes": "Caused by Tomato yellow leaf curl virus (TYLCV) and transmitted by whiteflies.",
+        "Symptoms": "1. Yellowing and curling of leaves\n2. Leaf narrowing\n3. Reduced fruit size and yield",
+        "Treatment": "No cure, control whiteflies using insecticides.",
+        "MANAGEMENT_TIPS": "1. Use insecticides to control whiteflies\n2. Plant virus-resistant tomato varieties\n3. Remove infected plants",
+        "Prevention": "Control whitefly populations, plant resistant varieties, and maintain good garden hygiene.",
+        "Affected_Plant_Parts": "Leaves, stems, and fruits",
+        "Spread_and_Impact": "Spread by whiteflies and can cause severe yield losses.",
+        "Images": [
+            "https://www.greenlife.co.ke/wp-content/uploads/2022/04/Tomato-Leaf-Curl.jpg",
+            "https://content.ces.ncsu.edu/media/images/IMG_4525.jpeg"
+        ],
+        "DISEASE_Severity_Level": "High",
+        "DISEASE_Severity_Value": "85",
+        "RELATEDOTHERDISEASE": "Spider_mites Two-spotted_spider_mite",
+        "relateddiseaseimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLz1eBfrWW9VpUAcSEt_zhCkVHinPoZG7DXJszB3o0A&s"
+    }
+]
