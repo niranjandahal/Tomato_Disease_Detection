@@ -59,7 +59,7 @@ The hybrid model combining VGG16 and ViT achieved impressive results with high a
 
 The project successfully developed a high-precision tomato disease detection application. Future work will focus on expanding the dataset, improving model accuracy, and adding more features to the mobile application.
 
-##Project setup and prerequisite
+## Project setup and prerequisite
 
 this project is built with the flutter and backend code is on python. if u can configure ngrok then u don't need the index.php and cors.php on outermost directory and u should replace url on 'cropdetectionsample/lib/localhosturl.dart' Otherwiese you need
 
