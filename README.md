@@ -17,8 +17,8 @@ This project presents a **mobile application** designed to detect tomato disease
   - [Mobile App Development](#mobile-app-development)
 - [Results](#results)
   - [Hybrid Deep Learning Model](#hybrid-deep-learning-model)
-  - [Mobile App Prototype](#mobile-app-prototype)
 - [Conclusion and Future Work](#conclusion-and-future-work)
+- [project setup](#project-setup-and-prerequisite)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -55,13 +55,24 @@ The mobile application was developed using Flutter, providing a user-friendly in
 
 The hybrid model combining VGG16 and ViT achieved impressive results with high accuracy, precision, and recall. Detailed performance metrics are available in the report.
 
-### Mobile App Prototype
-
-The Flutter-based mobile app is functional and provides accurate disease detection results.
-
 ## Conclusion and Future Work
 
 The project successfully developed a high-precision tomato disease detection application. Future work will focus on expanding the dataset, improving model accuracy, and adding more features to the mobile application.
+
+##Project setup and prerequisite
+
+this project is built with the flutter and backend code is on python. if u can configure ngrok then u don't need the index.php and cors.php on outermost directory and u should replace url on 'cropdetectionsample/lib/localhosturl.dart' Otherwiese you need
+
+flutter
+python
+Xampp
+
+1. on your c:/xampp/htdocs create/php/diseasedetectiona and clone this repository
+2. in cmd type 'ipconfig' and get the 'IPv4 Address' and place it on the "cropdetectionsample/lib/localhosturl.dart"
+3. open xampp and start apache server then run your main.py then hit flutter run and make sure the laptop and mobile are on same wifi
+   
+
+
 
 ## Contributing
 
