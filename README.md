@@ -2,6 +2,12 @@
 
 ![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis01.jpg)
 
+![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis02.jpg)
+
+![Tomato Disease Detection](https://raw.githubusercontent.com/niranjandahal/diseasedetection/main/cropdetectionsample/dis03.jpg)
+
+
+
 
 
 
